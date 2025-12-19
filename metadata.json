@@ -1,0 +1,8 @@
+{
+  "name": "SkyWhisper Weather AI",
+  "description": "A sophisticated weather forecasting chatbot featuring real-time data via Google Search grounding and a low-latency voice interface using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
